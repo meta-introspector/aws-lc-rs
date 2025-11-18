@@ -21,3 +21,4 @@ deps/aws-lc-sys/src/bindings.rs
 
 lcov.info
 /.zed/
+process-repo.log
