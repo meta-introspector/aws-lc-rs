@@ -33,9 +33,9 @@ untrusted = "0.7.1"
 zeroize = "1.8.1"
 toml_edit = "0.23.0"
 
-[profile.bench]
-lto = true
+# [profile.bench]
+# lto = true
 
-[profile.release-lto]
-inherits = "release"
-lto = true
+# [profile.release-lto]
+# inherits = "release"
+# lto = true
